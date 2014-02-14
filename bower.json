@@ -1,0 +1,21 @@
+{
+  "name": "estudos",
+  "version": "0.0.0",
+  "authors": [
+    "Carina Brito <carinabs8@gmail.com>"
+  ],
+  "description": "Aprendizado de novas metodologias",
+  "license": "MIT",
+  "homepage": "https://github.com/carinabs8",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.0"
+  }
+}
