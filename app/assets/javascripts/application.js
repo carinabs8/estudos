@@ -11,6 +11,7 @@
 // about supported directives.
 //
 //= require jquery/dist/jquery
+//= require dispatcher
 //= require jquery-ujs
 //= require bootstrap.min
 //= require plugins/metisMenu/jquery.metisMenu
