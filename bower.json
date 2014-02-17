@@ -19,7 +19,8 @@
   "dependencies": {
     "jquery": "~2.1.0",
     "highcharts": "~3.0.7",
-    "jquery-ujs": "*"
+    "jquery-ujs": "*",
+    "highcharts.com": "~3.0.9"
   },
   "main": "Yes"
 }

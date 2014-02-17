@@ -15,4 +15,5 @@
 //= require bootstrap.min
 //= require plugins/metisMenu/jquery.metisMenu
 //= require sb-admin
-//= require highcharts
+//=require highcharts
+//=require highcharts/modules/exporting
