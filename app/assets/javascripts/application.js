@@ -10,12 +10,9 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
+//= require jquery/dist/jquery
 //= require jquery-ujs
-//= require dispatcher
 //= require bootstrap.min
 //= require plugins/metisMenu/jquery.metisMenu
-//= require plugins/morris/raphael-2.1.0.min
-//= require plugins/morris/morris
 //= require sb-admin
-//= require demo/dashboard-demo
+//= require highcharts
